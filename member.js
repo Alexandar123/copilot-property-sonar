@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   return {
     name: 'skillMember',
     path: '/skill/member',
